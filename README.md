@@ -4,7 +4,7 @@
 
 I'm backend developer !
 
- - 📌 Skills: C, C++, Java, Javascript, Linux, Nash, SED, AWK, Perl, ...
+ - 📌 Skills: C, C++, Java, Javascript, Linux, Bash, SED, AWK, Perl, Powershell, bat, ...
  - 💙 In love with Linux, Unix
  - 💬 Ask me about Linux, Bash, Rowing, Powershell
  - 😄 In my free time I usually play games, rowing and watch series
