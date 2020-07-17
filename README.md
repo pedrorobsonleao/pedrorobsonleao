@@ -16,6 +16,7 @@ I'm backend developer !
 [![Twitter Badge](https://img.shields.io/badge/-pedrorobsonleao-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/pedrorobsonleao)
 [![Gmail Badge](https://img.shields.io/badge/-pedro.leao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.leao@gmail.com)](mailto:pedro.leao@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@pedrorobsonleao-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/pedrorobsonleao/)](https://www.instagram.com/pedrorobsonleao/)
+[![Facebook Badge](https://img.shields.io/badge/-pedro.r.leao-DodgerBlue?style=flat-square&logo=Facebook&logoColor=white&link=https://fb.me/pedro.r.leao)](https://fb.me/pedro.r.leao)
 
 <!--
 **pedrorobsonleao/pedrorobsonleao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
