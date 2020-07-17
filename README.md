@@ -12,9 +12,9 @@ I'm backend developer !
  ----
 
 [![Github Badge](https://img.shields.io/badge/-pedrorobsonleao-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedrorobsonleao)](https://github.com/pedrorobsonleao)
-[![Linkedin Badge](https://img.shields.io/badge/-pedrorobsonleao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrorobsonleao/)](https://www.linkedin.com/in/pedrorobsonleao/)
+[![Linkedin Badge](https://img.shields.io/badge/-pedroleao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroleao/)](https://www.linkedin.com/in/pedroleao/)
 [![Twitter Badge](https://img.shields.io/badge/-pedrorobsonleao-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/pedrorobsonleao)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.leao@gmail.com)](mailto:pedro.leao@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pedro.leao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.leao@gmail.com)](mailto:pedro.leao@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@pedrorobsonleao-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/pedrorobsonleao/)](https://www.instagram.com/pedrorobsonleao/)
 
 <!--
