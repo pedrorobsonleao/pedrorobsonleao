@@ -2,7 +2,7 @@
 
 ### Hi there 👋 Welcome to my profile
 
-I'm backend developer !
+I'm a backend developer !
 
  - 📌 Skills: C, C++, Java, Javascript, Linux, Bash, SED, AWK, Perl, Powershell, batch, ...
  - 💙 In love with Linux, Unix
