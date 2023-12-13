@@ -7,7 +7,7 @@ I'm a backend developer !
  - 📌 Skills: C, C++, Java, Javascript, Linux, Bash, SED, AWK, Perl, Powershell, batch, ...
  - 💙 In love with Linux, Unix
  - 💬 Ask me about Linux, Bash, Rowing, Powershell
- - 😄 In my free time I usually play games :video_game:, rowing :rowboat: and watch series :tv:
+ - 😄 In my free time I usually play games 🎮, rowing 🚣 and watch series 📺
  - ⚡ [![Instagram Badge](https://img.shields.io/badge/-@pedrorobsonleao-990073?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/pedrorobsonleao/)](https://www.instagram.com/pedrorobsonleao/)  on instagram: show beautiful rowing :rowboat: images 
  ----
 [![Dockerhub Badge](https://img.shields.io/badge/-pedrorobsonleao-099CEC?style=flat-square&logo=Docker&logoColor=white&link=mailto:pedro.leao@gmail.com)](https://hub.docker.com/u/pedrorobsonleao) 
