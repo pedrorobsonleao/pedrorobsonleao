@@ -1,36 +1,81 @@
-# Pedro Robson Leão  :man_technologist:
+# Pedro Robson Leão 🚀
 
-### Hi there 👋 Welcome to my profile
+### Senior Tech Leader | Software Architect | Agile Enthusiast
 
-I'm a backend developer !
+*Compartilhe seu conhecimento, multiplique seu impacto. Seja um líder técnico de referência.*
 
- - 📌 Skills: C, C++, Java, Javascript, Linux, Bash, SED, AWK, Perl, Powershell, batch, ...
- - 💙 In love with Linux, Unix
- - 💬 Ask me about Linux, Bash, Rowing, Powershell
- - 😄 In my free time I usually play games 🎮, rowing 🚣 and watch series 📺
- - ⚡ [![Instagram Badge](https://img.shields.io/badge/-@pedrorobsonleao-990073?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/pedrorobsonleao/)](https://www.instagram.com/pedrorobsonleao/)  on instagram: show beautiful rowing :rowboat: images 
- ----
-[![Dockerhub Badge](https://img.shields.io/badge/-pedrorobsonleao-099CEC?style=flat-square&logo=Docker&logoColor=white&link=mailto:pedro.leao@gmail.com)](https://hub.docker.com/u/pedrorobsonleao) 
-[![Facebook Badge](https://img.shields.io/badge/-pedro.r.leao-099FFF?style=flat-square&logo=Facebook&logoColor=white&link=https://fb.me/pedro.r.leao)](https://fb.me/pedro.r.leao) 
-[![Github Badge](https://img.shields.io/badge/-pedrorobsonleao-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedrorobsonleao)](https://github.com/pedrorobsonleao)
-[![Gmail Badge](https://img.shields.io/badge/-pedro.leao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.leao@gmail.com)](mailto:pedro.leao@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@pedrorobsonleao-990073?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/pedrorobsonleao/)](https://www.instagram.com/pedrorobsonleao/)
-[![Linkedin Badge](https://img.shields.io/badge/-pedroleao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroleao/)](https://www.linkedin.com/in/pedroleao/)
-[![Npm Badge](https://img.shields.io/badge/-pedrorleao-9e372e?style=flat-square&logo=Npm&logoColor=white&link=mailto:pedro.leao@gmail.com)](https://www.npmjs.com/settings/pedrorleao/packages)
-[![Twitter Badge](https://img.shields.io/badge/-pedrorobsonleao-blue?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/pedrorobsonleao) 
-[![Yarn Badge](https://img.shields.io/badge/-pedrorobsonleao-257997?style=flat-square&logo=Yarn&logoColor=white&link=mailto:pedro.leao@gmail.com)](https://classic.yarnpkg.com/pt-BR/packages?q=pedro%20robson%20leao&p=1&owner%5B0%5D=pedrorobsonleao)
+---
 
-<!--
-**pedrorobsonleao/pedrorobsonleao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedroleao/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:pedro.leao@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/pedrorobsonleao" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+    <a href="https://www.instagram.com/pedrorobsonleao/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 About Me
+
+I am a seasoned Technology Leader with extensive experience in the IT industry, spanning sectors like Finance, Telecommunications, and E-commerce. With a strong foundation in software development (C, C++, Java) and a passion for Unix/Linux environments, I thrive on building robust, scalable solutions and leading high-performing teams.
+
+- 🔭 Currently working as a **Tech Lead at Bradesco**.
+- 💡 Certified **Scrum Master** with a passion for Agile methodologies.
+- 🌍 I have experience with international projects in Latin America (Argentina, Peru, Mexico, Uruguay, Colombia).
+- 💬 Ask me about **Software Architecture, Linux, Bash, C++, Java, and Rowing**.
+- 😄 In my free time, I enjoy gaming 🎮, rowing 🚣, and watching series 📺.
+
+---
+
+### 🛠️ My Tech Stack
+
+Here are some of the technologies I've been working with:
+
+**Languages:**
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+**DevOps & Tools:**
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+**Databases:**
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+**Operating Systems:**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrorobsonleao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorobsonleao&layout=compact&langs_count=8&theme=dracula"/>
+</p>
+
+---
