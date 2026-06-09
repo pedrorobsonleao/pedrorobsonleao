@@ -28,7 +28,6 @@
 I am a seasoned Technology Leader and Software Architect with extensive experience in the IT industry, spanning sectors like **Finance**, **Telecommunications**, and **E-commerce**. With a strong foundation in backend development and a deep-seated passion for Unix/Linux environments, I thrive on building robust, scalable solutions and leading high-performing engineering teams.
 
 * 💼 **Professional Experience:**
-  * **Tech Lead** at **Bradesco** (Current) – Driving engineering excellence and architectural patterns.
   * **Tech Lead** at **Provider IT** – Delivering consulting and engineering leadership.
 * 📜 **Agile Champion:** Certified **Scrum Master** focused on fostering iteration, feedback loops, and collaboration.
 * 🌍 **International Footprint:** Delivered cross-border software solutions in Latin America (Argentina, Peru, Mexico, Uruguay, Colombia).
