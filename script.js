@@ -96,7 +96,7 @@ Available commands:
         about: () => `
 <span class="text-info">Name:</span> Pedro Robson Leão
 <span class="text-info">Role:</span> Senior Tech Leader & Software Architect
-<span class="text-info">Current:</span> Tech Lead at Bradesco
+<span class="text-info">Experience:</span> Tech Lead at Bradesco (Current) | Tech Lead at Provider IT (Previous)
 <span class="text-info">Summary:</span>
 A seasoned technology leader with extensive IT industry experience spanning Finance, Telecom, and E-commerce. Focuses on building robust, scalable solutions on Unix/Linux platforms and leading high-performing collaborative engineering teams.
 <span class="text-info">Global Reach:</span>

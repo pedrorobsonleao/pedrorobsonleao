@@ -27,7 +27,9 @@
 
 I am a seasoned Technology Leader and Software Architect with extensive experience in the IT industry, spanning sectors like **Finance**, **Telecommunications**, and **E-commerce**. With a strong foundation in backend development and a deep-seated passion for Unix/Linux environments, I thrive on building robust, scalable solutions and leading high-performing engineering teams.
 
-* 💼 **Current Role:** Tech Lead at **Bradesco**, driving engineering excellence and architectural patterns.
+* 💼 **Professional Experience:**
+  * **Tech Lead** at **Bradesco** (Current) – Driving engineering excellence and architectural patterns.
+  * **Tech Lead** at **Provider IT** – Delivering consulting and engineering leadership.
 * 📜 **Agile Champion:** Certified **Scrum Master** focused on fostering iteration, feedback loops, and collaboration.
 * 🌍 **International Footprint:** Delivered cross-border software solutions in Latin America (Argentina, Peru, Mexico, Uruguay, Colombia).
 * 🚣 **Interests:** Ask me about **Software Architecture, Linux systems, Bash scripting, Java/C++, and Rowing**.
@@ -70,15 +72,6 @@ I am a seasoned Technology Leader and Software Architect with extensive experien
   <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
 </p>
 </details>
-
----
-
-### 🎨 Personal Portfolio Website
-
-We recently built a premium, interactive personal portfolio website:
-- **Interactive Web Terminal:** Features a custom terminal shell running commands like `about`, `skills`, `row`, `contact`, and `agile`.
-- **Modern UI:** Built with dark theme aesthetics, glassmorphism card structures, custom scrolling animations, and a fully responsive grid.
-- **Source Files:** [index.html](index.html) | [style.css](style.css) | [script.js](script.js)
 
 ---
 
