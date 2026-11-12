@@ -1,124 +1,146 @@
 # Pedro Robson Leão
 
-Tech Lead | Senior Engineering Manager | Digital Transformation Leader
+**Líder Técnico | Gerente Sênior de Engenharia de Software | Especialista em Modernização e Transformação Digital**
 
-São Paulo, SP | pedro.leao@gmail.com | +55 11 98966-6344 | www.linkedin.com/in/pedroleao
+São Paulo, SP, Brasil | pedro.leao@gmail.com | +55 11 98966-6344 | [linkedin.com/in/pedroleao](https://www.linkedin.com/in/pedroleao/) | [github.com/pedrorobsonleao](https://github.com/pedrorobsonleao)
 
-## Resumo profissional
+---
 
-Líder técnico com mais de 30 anos de experiência em transformação digital, modernização de sistemas legados e entrega de soluções de alto impacto em ambientes financeiros, de seguros e de telecomunicações. Especialista em conectar sistemas críticos e legado com plataformas modernas, com foco em arquitetura, desempenho, governança e valor de negócio.
+## Resumo Profissional
 
-Ao longo da carreira, liderou programas de modernização em bancos, fintechs, insurtechs e empresas de tecnologia, atuando em equipes multidisciplinares, projetos internacionais na América Latina e iniciativas com alta exigência operacional.
+Líder de tecnologia com mais de 30 anos de sólida experiência em engenharia de software, modernização de sistemas legados de missão crítica e transformação digital nos segmentos Bancário, Fintech, Insurtech e Telecomunicações. Especialista em construir pontes seguras e eficientes entre ambientes legados de grande porte (Mainframe IBM, C/C++, Sun Solaris) e arquiteturas distribuídas modernas (Java 17+, microsserviços, automação com IA).
 
-## Perfil
+Comprovada atuação na liderança técnica e gestão de squads multidisciplinares de alta performance, condução de programas complexos na América Latina (Brasil, México, Peru, Colômbia, Argentina e Uruguai) e alinhamento consultivo entre estratégia técnica e objetivos de negócio (ROI, controle de riscos e conformidade regulatória). Perfil orientado a resultados, firmeza na resolução de problemas críticos, adaptabilidade e cultura de aprendizado contínuo.
 
-- Líder técnico e executivo de engenharia
-- Especialista em modernização de sistemas legados e arquitetura de software
-- Experiência em ambientes críticos, de alta disponibilidade e alto volume transacional
-- Foco em transformação digital com alinhamento estratégico entre tecnologia e negócio
-- Prática em metodologias ágeis e liderança de squads
+---
 
-## Competências principais
+## Competências Principais
 
-- Liderança técnica e gestão de engenharia
-- Modernização de sistemas legados (Java, C/C++, mainframe, Swing, APIs)
-- Arquitetura de software e governança tecnológica
-- Java 17+, Spring Boot, Python, Node.js, JavaScript
-- Integração com IBM Mainframe / z/OS Connect
-- CI/CD, Jenkins, Jira, Git, DevOps
-- Linux/Unix, Solaris, Windows
-- Banking, fintech, insurtech, telecom e soluções de CRM
-- Scrum Master e transformação ágil
+- **Liderança & Gestão:** Liderança Técnica (Tech Lead), Gestão de Engenharia de Software (Engineering Manager), Metodologias Ágeis (Scrum Master), Gestão de Stakeholders C-Level, Vendas Consultivas (Tech-to-Finance), Mentoria e Desenvolvimento de Equipes.
+- **Arquitetura & Modernização:** Modernização de Sistemas Legados, Arquitetura de Microsserviços e APIs RESTful, Sistemas Distribuídos de Alta Disponibilidade (24x7), Integração Modern-to-Mainframe.
+- **Linguagens & Tecnologias:** Java (Java 17+, Spring Boot, Java 1.6, J2EE), C/C++ (POCO, gSOAP), Python, Node.js, JavaScript, Shell Script (Bash, AWK, Perl, PHP).
+- **Plataformas & Infraestrutura:** IBM Mainframe (z/OS Connect), Sun Solaris, Unix (SCO, QNX), Linux, MS-Windows, IBM WebSphere, Oracle, Liferay Portal.
+- **DevOps & Ferramental:** CI/CD (Jenkins), Atlassian Jira, Git/GitHub, Automação de Processos (RPA/IA), Arquitetura TCP/IP, CTI (Computer Telephony Integration).
+- **Domínios de Negócio:** Modernização Bancária, BaaS (Banking as a Service - Matera / Itaú as a Service) e Open Finance, Crédito e Formalização, Cobrança e Gestão de Risco (PCLD/CRELIQ), Seguros de Massa e Prestamista (Insurtech), Meios de Pagamento e Cartões de Crédito, Telecomunicações e Gateways SMS de Alta Volumetria, O2O (Online-to-Offline).
 
-## Experiência profissional
+---
 
-### Bradesco | Tech Lead / Especialista em Modernização de Sistemas Bancários
-Abril de 2025 – Novembro de 2025 | Osasco, SP
+## Experiência Profissional
 
-- Liderança técnica no Projeto Change, iniciativa estratégica de modernização tecnológica do Bradesco
-- Responsável pela evolução de sistemas legados para arquiteturas modernas em Java 17+
-- Garantia de continuidade operacional para processos críticos de crédito e formalização
-- Coordenação da squad de garantia e formalização com foco em estabilidade, qualidade e entregas de negócio
+### Provider IT
+**Líder Técnico**  
+*Maio de 2026 – Julho de 2026 | São Paulo, SP, Brasil*
+- Liderança técnica das squads de **Atendimento** e **Open Finance**, atuando na arquitetura e modernização de serviços financeiros.
+- **Migração de BaaS (Banking as a Service):** Estruturação técnica e planejamento arquitetural da migração de plataforma BaaS, conduzindo a transição de Itaú as a Service para Matera BaaS.
+- **Governança de Integração e APIs:** Definição de padrões de integração, garantia de conformidade com os requisitos de Open Finance e sustentação da continuidade operacional dos canais críticos de atendimento bancário.
 
-### meutudo | Tech Lead / Engineering Lead
-Novembro de 2024 – Março de 2025 | São Paulo, SP
+### Bradesco
+**Tech Lead / Especialista em Modernização de Sistemas Bancários**  
+*Abril de 2025 – Novembro de 2025 | Osasco, SP, Brasil*
+- Liderança técnica no **Projeto Change**, iniciativa estratégica de modernização tecnológica do Banco Bradesco.
+- Atuação na Squad de Garantia e Formalização, orquestrando a evolução de sistemas legados para arquiteturas modernas e assegurando 100% de continuidade operacional em processos críticos de crédito.
+- **Modernização de Stack Tecnológica:** Condução da transição de aplicações legadas em Java 1.6 e Swing para arquiteturas contemporâneas em Java 17+, elevando padrões de segurança, manutenibilidade e performance.
+- **Integração Modern-to-Mainframe:** Criação e especificação de APIs de alta performance em Java 17 para comunicação resiliente entre microsserviços modernos e ambiente Mainframe IBM via z/OS Connect.
+- **Sistemas de Missão Crítica:** Sustentação e evolução de aplicações com integrações CWS e Mainframe, garantindo a integridade dos fluxos transacionais de Garantia e Formalização.
 
-- Liderança de engenharia em integração complexa com a Icatu Seguros
-- Automação de fluxos de proteção para empréstimos com desconto em folha
-- Desenvolvimento de produtos de seguro com foco em escalabilidade e custo eficiente
-- Apoio estratégico à execução do produto principal da companhia
+### meutudo.
+**Tech Lead / Líder Técnico de Engenharia (Insurtech & Seguros)**  
+*Novembro de 2024 – Março de 2025 | São Paulo, SP, Brasil*
+- Liderança técnica da Squad de Seguros, conduzindo a arquitetura, roadmap de engenharia e execução de integrações de novos produtos financeiros.
+- **Integração Estratégica:** Condução da integração técnica com a Icatu Seguros por meio de APIs de missão crítica e automação de serviços digitais.
+- **Proteção do Core Business:** Implementação da esteira de Seguro Prestamista atrelada ao Crédito Consignado (carro-chefe da companhia), mitigando riscos operacionais e financeiros da principal linha de receita.
+- **Inovação em Seguros:** Direcionamento técnico para a concepção e lançamento de produto de seguro individual massificado, projetado para alta eficiência e baixo custo transacional.
 
-### EY (Ernst & Young) | Senior Manager – Digital Transformation & FinTech
-Julho de 2024 – Novembro de 2024 | São Paulo, SP
+### EY (Ernst & Young)
+**Gerente Sênior de Transformação Digital e FinTech (LATAM)**  
+*Julho de 2024 – Novembro de 2024 | São Paulo, SP, Brasil*
+- Liderança em consultoria estratégica focada na modernização de operações contábeis e financeiras para clientes multinacionais na América Latina.
+- **Transformação com IA e Automação:** Implementação de soluções apoiadas em Inteligência Artificial e automação de processos, otimizando fluxos financeiros complexos e reduzindo custos operacionais.
+- **Desenvolvimento de Negócios (Business Development):** Atuação em todo o ciclo comercial de vendas consultivas, desde prospecção e precificação estratégica até o fechamento de propostas multidisciplinares sob padrões Big Four.
+- **Alinhamento Tech-to-Finance:** Articulação consultiva entre lideranças C-Level e equipes de tecnologia, assegurando aderência das soluções propostas ao ROI e metas financeiras dos clientes.
 
-- Implementação de soluções de automação com IA para processos financeiros e contábeis complexos
-- Apoio estratégico a clientes multinacionais na América Latina
-- Participação em ciclos de venda, proposta comercial e alinhamento de soluções com objetivos financeiros de clientes
+### Neon
+**Gerente de Software Sênior (Fintech & Backend)**  
+*Junho de 2020 – Outubro de 2023 | São Paulo, SP, Brasil*
+- Liderança técnica e de engenharia na Squad de Cobrança do Banco Neon em fase de hiper-crescimento.
+- **Migração de Core System:** Gestão da migração complexa do sistema central de cobrança (Datacob) para plataforma SaaS (Cobransaas), reduzindo custos de infraestrutura e elevando a confiabilidade dos dados.
+- **Integração App-to-Core:** Liderança na integração das soluções de negociação diretamente no aplicativo do banco, ampliando o autosserviço de quitação de débitos.
+- **CRM e Gestão de Risco:** Integração do ecossistema backend com Salesforce para visão 360° do cliente e automação de fluxos críticos de notificação para clientes com apontamento de risco (PCLD / CRELIQ).
 
-### Neon | Senior Software Manager (Fintech & Backend)
-Junho de 2020 – Outubro de 2023 | São Paulo, SP
+### Apontador
+**Gerente de Engenharia de Software / Tech Lead Manager**  
+*Março de 2017 – Junho de 2020 | São Paulo, SP, Brasil*
+- Gestão 360° de tecnologia (desenvolvimento de software, infraestrutura crítica e suporte técnico) do ecossistema Apontador.com.
+- **Estratégia O2O (Online-to-Offline):** Direcionamento de soluções tecnológicas voltadas à digitalização e conversão de leads para pequenas e médias empresas (PMEs).
+- **Revitalização do Mecanismo de Busca:** Liderança na reestruturação dos serviços de indexação e busca da base geolocalizada, melhorando expressivamente o tempo de resposta e a precisão das consultas de milhões de usuários.
+- **Geolocalização Avançada:** Consultoria técnica e gestão de soluções de georoteirização para empresas do Grupo LBS, com algoritmos de inteligência geográfica.
 
-- Liderança na migração do sistema central de cobrança de Datacob para Cobransaas
-- Integração de serviços de CRM e risco com Salesforce
-- Automação de comunicação para segmentos de alto risco (PCLD/CRELIQ)
-- Melhoria de journeys de negociação para aumento de recuperação digital
+### BNP Paribas Cardif
+**Gerente de Engenharia de Software / Tech Program Manager (LATAM)**  
+*Março de 2013 – Março de 2017 | São Paulo, SP, Brasil*
+- Liderança técnica e gestão do ciclo de vida do PIMS (*Protection International Management System*), plataforma central de operações de seguros na América Latina.
+- **Expansão Internacional:** Coordenação da implantação e sustentação da solução em 5 países: Brasil, México, Peru, Colômbia e Argentina/Chile, atendendo a particularidades fiscais e regulatórias de cada território.
+- **Liderança In Loco:** Gestão presencial de implantação crítica na Cardif México (DF), garantindo continuidade operacional durante transição de sistemas.
+- **DevOps & Integração Contínua:** Implementação da esteira de Continuous Delivery via Jenkins integrado ao Atlassian Jira, acelerando o *time-to-market* das entregas.
+- **Arquitetura Corporativa:** Sustentação e evolução de ambiente robusto em J2EE, IBM WebSphere, Oracle Database e portal corporativo em Liferay.
 
-### Apontador.com | Engineering Manager / Tech Lead Manager
-Março de 2017 – Junho de 2020 | São Paulo, SP
+### Spring Wireless (Okto Fusion)
+**Engenheiro de Software Sênior / Especialista em Sistemas de Mensageria**  
+*Junho de 2009 – Fevereiro de 2013 | São Paulo, SP, Brasil*
+- Sustentação e modernização tecnológica da infraestrutura de gateways de SMS de altíssima volumetria no período pós-fusão entre Okto e Spring Wireless.
+- **Engenharia de Alta Performance em C++:** Reestruturação de gateways transacionais críticos utilizando C++ e bibliotecas de alta performance (POCO, gSOAP), com foco em baixa latência e suporte ao aumento substancial de tráfego.
+- **Otimização de Comunicação:** Refatoração de camadas de comunicação SOAP/Abyss, otimizando consumo de recursos em conexões diretas com operadoras móveis.
+- **Automação de Suporte e Operação:** Desenvolvimento de utilitários em Java, Perl, PHP, AWK e Shell Script para monitoramento e processamento batch.
 
-- Reestruturação da infraestrutura de indexação de busca para milhões de locais geolocalizados
-- Melhoria da precisão de resultados e performance do ecossistema de busca
-- Liderança em soluções de O2O para pequenos negócios e parceiros comerciais
+### Okto
+**Engenheiro de Software Sênior (Sistemas de Alta Performance)**  
+*Maio de 2008 – Junho de 2009 | São Paulo, SP, Brasil*
+- Desenvolvimento e otimização de gateways de mensageria de alta performance para tráfego em tempo real entre agregadores de conteúdo e operadoras de telecomunicações.
+- Arquitetura de soluções de baixa latência em C/C++ (POCO, gSOAP, servidores Abyss) e suíte de automação em Java, Shell Script, Perl, PHP e AWK.
 
-### BNP Paribas Cardif | Tech Program Manager (LATAM)
-Março de 2013 – Março de 2017 | São Paulo, SP
+### Cetelem Serviços S/C Ltda (Grupo BNP Paribas)
+**Especialista em Arquitetura de Sistemas / Líder de Desenvolvimento Backend**  
+*Março de 2000 – Maio de 2008 | São Paulo, SP, Brasil*
+- Liderança técnica e concepção do ecossistema transacional online para processamento de cartões de crédito e financiamento ao consumidor.
+- **Arquitetura de Missão Crítica 24x7:** Criação e administração de plataforma transacional de alta disponibilidade sobre Sun Solaris, suportando picos de tráfego sazonais do varejo.
+- **Cartões Co-branded:** Arquitetura da solução inicial de cartões para o Carrefour e evolução escalável da plataforma para parceiros como FNAC e Leroy Merlin.
+- **Fundação da Bandeira Aura:** Protagonismo técnico no desenvolvimento da solução transacional que deu origem à bandeira proprietária Aura/Cetelem.
 
-- Coordenação da implementação do PIMS (Protection International Management System) nos mercados do Brasil, México, Peru, Colômbia e Argentina
-- Integração de Jenkins e Jira para avanço de CI/CD e redução de tempo de entrega
-- Liderança multi-país em projetos de seguros e digitalização de processos
+### Tecnet Teleinformática Ltda
+**Analista de Sistemas / Especialista de Implantação e Suporte Técnico**  
+*Dezembro de 1991 – Março de 2000 | São Paulo, SP, Brasil*
+- **Analista de Sistemas (1998 – 2000):** Desenvolvimento e sustentação de soluções CTI (*Computer Telephony Integration*) e centrais de Call Center integrando SCO UNIX, QNX, Windows NT e bancos de dados externos via protocolos de rede TCP/IP. Implantação de centrais de atendimento no Ministério do Trabalho e Emprego, INSS, Telemar e projeto CNEN/Tecnet Eco92. Atuação em implantações internacionais em Lima (ASC Consultores), Montevideo (Banco Sudameris) e Buenos Aires (Tecnet).
+- **Especialista de Implantação e Suporte Técnico (1991 – 1998):** Liderança técnica na instalação, parametrização e suporte avançado de sistemas de telecomunicações (RETRANS, VOICE-FAX, SCT) para órgãos públicos e concessionárias (TRTs, companhias de energia e operadoras de telecomunicações).
 
-### Spring Wireless (Okto Fusion) | Senior Software Engineer / Specialist
-Junho de 2008 – Fevereiro de 2013 | São Paulo, SP
+---
 
-- Desenvolvimento e manutenção de gateways SMS de alto desempenho em C/C++
-- Suporte a ambientes de alta carga e transações críticas
-- Participação em integração pós-fusão de empresas e aumento de capacidade operacional
+## Formação Acadêmica
 
-### Cetelem (BNP Paribas Group) | Senior Systems Architect
-Março de 2000 – Maio de 2008 | São Paulo, SP
+- **Tecnólogo em Ciências da Computação**  
+  UNINOVE – Universidade Nove de Julho (2002 – 2003)
 
-- Arquitetura de ambientes online críticos em Sun Solaris para grandes redes de varejo
-- Contribuição ao desenvolvimento do brand Aura/Cetelem
-- Suporte a operação 24x7 em cenário de alta disponibilidade e continuidade de negócio
+---
 
-## Principais realizações
+## Certificações
 
-- Modernização de sistemas legados para arquiteturas mais seguras, escaláveis e sustentáveis
-- Redução de riscos de continuidade operacional em processos críticos de crédito e finanças
-- Introdução de melhorias de entrega e qualidade com adoção de práticas de DevOps e agilidade
-- Coordenação de iniciativas internacionais em múltiplos mercados da América Latina
-- Alinhamento entre estratégia tecnológica e objetivos de negócio com foco em ROI
+- **Certified Scrum Master (CSM)**
+- **GitHub Copilot Challenge**
 
-## Certificações e formação
-
-- Scrum Master
-- GitHub Copilot Challenge
-- Experiência internacional em projetos em América Latina
+---
 
 ## Idiomas
 
-- Inglês: Professional Working
-- Espanhol: Intermediário / proficiência em trabalho
-- Francês: Elementar
+- **Português:** Nativo
+- **Inglês:** Profissional (Professional Working Proficiency)
+- **Espanhol:** Elementar / Básico com vivência prática internacional (projetos em Argentina, Peru, México, Uruguai e Colômbia)
+- **Francês:** Elementar / Básico
 
-## Contato
+---
 
-- Email: pedro.leao@gmail.com
-- Celular: +55 11 98966-6344
-- LinkedIn: https://www.linkedin.com/in/pedroleao/
-- GitHub: https://github.com/pedrorobsonleao
-- Localização: São Paulo, Brasil
+## Contato & Canais Profissionais
 
-## Mensagem final
-
-Executivo de tecnologia com forte presença de liderança, visão estratégica e execução operacional em ambientes complexos. Combinando arquitetura, engenharia e relacionamento com stakeholders, contribui para transformar sistemas críticos e acelerar resultados de negócio em cenários de modernização digital.
+- **E-mail:** pedro.leao@gmail.com
+- **Telefone:** +55 11 98966-6344
+- **LinkedIn:** [linkedin.com/in/pedroleao](https://www.linkedin.com/in/pedroleao/)
+- **GitHub:** [github.com/pedrorobsonleao](https://github.com/pedrorobsonleao)
+- **Localização:** São Paulo, SP, Brasil

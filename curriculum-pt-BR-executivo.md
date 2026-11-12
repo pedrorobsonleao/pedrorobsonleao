@@ -1,107 +1,105 @@
 # Pedro Robson Leão
 
-Tech Lead | Senior Engineering Manager | Diretor de Transformação Digital
+**Tech Lead | Gerente Sênior de Engenharia | Liderança em Transformação Digital**
 
-São Paulo, SP | pedro.leao@gmail.com | +55 11 98966-6344 | www.linkedin.com/in/pedroleao
+São Paulo, SP, Brasil | pedro.leao@gmail.com | +55 11 98966-6344 | [linkedin.com/in/pedroleao](https://www.linkedin.com/in/pedroleao/) | [github.com/pedrorobsonleao](https://github.com/pedrorobsonleao)
 
-## Resumo executivo
+---
 
-Líder de tecnologia com mais de 30 anos de experiência em transformação digital, modernização de sistemas críticos e gestão de engenharia em ambientes complexos. Atua na interseção entre tecnologia, estratégia de negócio e execução operacional, com forte presença em bancos, fintechs, seguradoras e empresas de telecomunicações.
+## Resumo Executivo
 
-Ao longo da carreira, liderou programas de modernização, reforço da arquitetura de software, migração de plataformas legadas e adoção de modelos operacionais mais ágeis, com foco em continuidade de negócio, qualidade entrega e geração de valor sustentável.
+Executivo e líder de tecnologia com mais de 30 anos de trajetória direcionando transformação digital, modernização de ecossistemas críticos e gestão estratégica de engenharia em grandes corporações dos setores Bancário, Fintech, Seguros e Telecomunicações. Atua com excelência na articulação entre diretrizes estratégicas de negócio, conformidade regulatória e execução técnica de ponta a ponta.
 
-## Perfil executivo
+Histórico comprovado na condução de programas corporativos de alta complexidade, orquestração de migrações legadas de grande escala (Mainframe, Java 17+, Cloud e automação com IA), governança técnica e gestão de portfólio de engenharia. Experiência executiva internacional na liderança e entrega de plataformas em múltiplos países da América Latina (Brasil, México, Peru, Colômbia e Argentina), com sólida capacidade de mobilização de equipes multidisciplinares e relacionamento com stakeholders C-Level.
 
-- Liderança de tecnologia e engenharia
-- Modernização de plataformas críticas e legadas
-- Alinhamento entre estratégia tecnológica e objetivos de negócio
-- Gestão de stakeholders executivos e lideranças multidisciplinares
-- Transformação digital e maturidade ágil de equipes
-- Experiência em ambientes regulados e de alta exigência operacional
+---
 
-## Áreas de atuação
+## Competências Executivas
 
-- Transformação digital e arquitetura corporativa
-- Modernização de sistemas legados e plataformas críticas
-- Estratégia de produtos digitais e evolução tecnológica
-- Governança e gestão de portfólio de tecnologia
-- Liderança de squads, programas e times multidisciplinares
-- Fintech, banking, insurtech, telecom e operações de risco
+- **Estratégia & Governança de TI:** Transformação Digital, Planejamento Estratégico de Tecnologia, Governança de Arquitetura, Gestão de Risco Operacional e Continuidade de Negócio.
+- **Liderança & Desenvolvimento Organizacional:** Gestão de Equipes Multidisciplinares, Aceleração de Cultura Ágil (Scrum Master), Formação de Lideranças Técnicas e Squads de Alta Performance.
+- **Parcerias & Negócios (Tech-to-Finance):** Vendas Consultivas em Serviços Profissionais (Big Four), Formulação de Propostas de Valor, Precificação Estratégica e Alinhamento de ROI com C-Level.
+- **Modernização de Sistemas de Missão Crítica:** Transição de Plataformas Legadas para Arquiteturas Escaláveis, Integração Corporativa Modern-to-Mainframe, Gestão de Sistemas 24x7.
+- **Domínios Especializados:** Modernização Bancária, BaaS (Banking as a Service) & Open Finance, Gestão de Riscos e Cobrança (PCLD/CRELIQ), Insurtech e Produtos de Seguros Massificados, Cartões de Crédito e Telecomunicações.
 
-## Principais conquistas
+---
 
-- Liderou iniciativas estratégicas de modernização de sistemas bancários e processos críticos de crédito
-- Coordenou projetos de alta complexidade na América Latina, envolvendo múltiplos mercados e stakeholders
-- Conduziu migração de sistemas legados para arquiteturas modernas com foco em escalabilidade, segurança e continuidade operacional
-- Introduziu práticas de agilidade e DevOps para acelerar entregas e reduzir fricção operacional
-- Apoiou decisões de negócio com visão técnica, risco e impacto financeiro
+## Principais Realizações Executivas
 
-## Experiência profissional
+- **Modernização Bancária de Escala Corporativa:** Liderança técnica no Projeto Change do Bradesco, viabilizando a modernização de sistemas legados de Garantia e Formalização para arquitetura Java 17+ e Mainframe com total integridade operacional.
+- **Proteção de Linha de Receita Crítica:** Estruturação da esteira tecnológica de Seguro Prestamista atrelada ao Crédito Consignado na meutudo., assegurando governança e mitigação de riscos na principal fonte de receita da companhia.
+- **Desenvolvimento de Negócios e IA (LATAM):** Condução de ofertas consultivas e implantação de soluções de IA e automação na EY, capturando eficiência operacional e expansão de mercado em clientes multinacionais.
+- **Eficiência de Custos em Hiper-crescimento:** Liderança na migração do core de cobrança (Datacob para SaaS Cobransaas) no Banco Neon, reduzindo custos operacionais de infraestrutura e otimizando a recuperação de crédito com Salesforce.
+- **Expansão Multinacional de Plataforma de Seguros:** Gestão do programa de implantação do sistema PIMS da BNP Paribas Cardif em 5 países da América Latina, unificando a esteira operacional com governança e Continuous Delivery.
 
-### Bradesco | Tech Lead / Especialista em Modernização de Sistemas Bancários
-Abril de 2025 – Novembro de 2025 | Osasco, SP
+---
 
-- Liderança técnica no Projeto Change, iniciativa estratégica de modernização tecnológica
-- Responsável por evolução de sistemas legados para arquitetura moderna em Java 17+
-- Garantia de continuidade operacional para processos críticos de crédito e formalização
-- Coordenação da squad de garantia e formalização com foco em estabilidade, qualidade e execução de negócio
+## Experiência Profissional
 
-### meutudo | Tech Lead / Engineering Lead
-Novembro de 2024 – Março de 2025 | São Paulo, SP
+### Provider IT
+**Líder Técnico**  
+*Maio de 2026 – Julho de 2026 | São Paulo, SP, Brasil*
+- Liderança técnica das squads de Atendimento e Open Finance, conduzindo a estruturação estratégica da migração da plataforma BaaS (Banking as a Service) de Itaú as a Service para Matera BaaS, com foco em governança e continuidade operacional.
 
-- Liderança de engenharia em integração complexa com parceiros do setor de seguros
-- Estruturação de produtos escaláveis e econômicos para o segmento de seguro massificado
-- Apoio estratégico à operação e evolução do produto principal da companhia
+### Bradesco
+**Tech Lead / Especialista em Modernização de Sistemas Bancários**  
+*Abril de 2025 – Novembro de 2025 | Osasco, SP, Brasil*
+- Liderança da Squad de Garantia e Formalização dentro do **Projeto Change**, programa prioritário de modernização tecnológica do banco.
+- Governança da transição de sistemas legados em Java 1.6/Swing para arquiteturas modernas em Java 17+, garantindo continuidade operacional ininterrupta para processos vitais de crédito.
+- Definição da estratégia de integração Modern-to-Mainframe via APIs de alta performance com IBM z/OS Connect.
 
-### EY (Ernst & Young) | Senior Manager – Digital Transformation & FinTech
-Julho de 2024 – Novembro de 2024 | São Paulo, SP
+### meutudo.
+**Tech Lead / Líder Técnico de Engenharia (Insurtech & Seguros)**  
+*Novembro de 2024 – Março de 2025 | São Paulo, SP, Brasil*
+- Direcionamento estratégico da Squad de Seguros, alinhando engenharia e objetivos de negócio para expansão de receitas.
+- Coordenação da integração sistêmica com a Icatu Seguros e implantação do seguro prestamista mandatário para crédito consignado.
+- Liderança na concepção e viabilização de novos produtos de seguro individual de baixo custo para o mercado massificado.
 
-- Execução de projetos de transformação digital com foco em automação e eficiência operacional
-- Acompanhamento estratégico de clientes multinacionais na América Latina
-- Apoio em propostas comerciais, visão de solução e alinhamento com metas financeiras
+### EY (Ernst & Young)
+**Gerente Sênior de Transformação Digital e FinTech (LATAM)**  
+*Julho de 2024 – Novembro de 2024 | São Paulo, SP, Brasil*
+- Atuação consultiva executiva conduzindo a modernização de processos contábeis e financeiros para clientes corporativos na América Latina.
+- Liderança no ciclo comercial completo de vendas consultivas de tecnologia, participando da prospecção, precificação e fechamento de negócios sob padrões Big Four.
+- Implementação de esteiras de automação inteligente e IA, fortalecendo a relação técnica com lideranças C-Level e maximizando o ROI de clientes.
 
-### Neon | Senior Software Manager (Fintech & Backend)
-Junho de 2020 – Outubro de 2023 | São Paulo, SP
+### Neon
+**Gerente de Software Sênior (Fintech & Backend)**  
+*Junho de 2020 – Outubro de 2023 | São Paulo, SP, Brasil*
+- Gestão de engenharia da Squad de Cobrança em ambiente regulado de fintech em rápida escala.
+- Condução da migração do sistema legado Datacob para o modelo SaaS Cobransaas, com redução comprovada de custos e aumento de confiabilidade.
+- Orquestração da integração do ecossistema transacional com Salesforce, habilitando réguas de recuperação personalizadas e mitigação de risco para carteiras críticas (PCLD / CRELIQ).
 
-- Liderança na migração do sistema central de cobrança, com ganhos operacionais e de confiabilidade
-- Integração de sistemas de risco e CRM com soluções digitais de atendimento
-- Melhoria de jornadas de recuperação e automação de comunicação com clientes
+### Apontador
+**Gerente de Engenharia de Software / Tech Lead Manager**  
+*Março de 2017 – Junho de 2020 | São Paulo, SP, Brasil*
+- Gestão executiva e técnica 360° do ecossistema Apontador.com (desenvolvimento, infraestrutura e suporte).
+- Revitalização dos mecanismos de busca e inteligência geográfica do Grupo LBS, impactando positivamente a entrega de leads e soluções O2O para pequenas e médias empresas.
 
-### Apontador.com | Engineering Manager / Tech Lead Manager
-Março de 2017 – Junho de 2020 | São Paulo, SP
+### BNP Paribas Cardif
+**Gerente de Engenharia de Software / Tech Program Manager (LATAM)**  
+*Março de 2013 – Março de 2017 | São Paulo, SP, Brasil*
+- Gestão do programa de implantação internacional do sistema central de seguros PIMS em 5 países da América Latina (Brasil, México, Peru, Colômbia e Argentina/Chile).
+- Liderança de missão presencial de entrega e estabilização na Cardif México (DF).
+- Estabelecimento de esteiras de DevOps e Continuous Delivery via Jenkins e Jira, acelerando ciclos de entrega corporativos.
 
-- Reestruturação da infraestrutura de busca e indexação para alto volume de dados geolocalizados
-- Coordenação de iniciativas digitais e de relacionamento com pequenos negócios
-- Apoio à estratégia de O2O e melhoria da experiência de busca e conversão
+### Experiências Anteriores Relevantes
+- **Spring Wireless / Okto (2008 – 2013) | Engenheiro de Software Sênior / Especialista:** Liderança na estabilização e engenharia de gateways SMS de alta volumetria pós-fusão corporativa.
+- **Cetelem – Grupo BNP Paribas (2000 – 2008) | Especialista em Arquitetura de Sistemas:** Arquitetura do ambiente transacional 24x7 sobre Sun Solaris, sustentando a operação de cartões co-branded (Carrefour, FNAC, Leroy Merlin) e a fundação da bandeira Aura.
+- **Tecnet Teleinformática (1991 – 2000) | Analista de Sistemas / Especialista de Missão Crítica:** Condução de projetos pioneiros de CTI e centrais de atendimento no setor público (Ministério do Trabalho, INSS, TRTs) e implantações na América Latina (Peru, Uruguai e Argentina).
 
-### BNP Paribas Cardif | Tech Program Manager (LATAM)
-Março de 2013 – Março de 2017 | São Paulo, SP
+---
 
-- Coordenação de implementação de sistemas em múltiplos países da América Latina
-- Alinhamento de tecnologia, operação e objetivos de negócio em programas de seguros e digitalização
-- Modernização de processos e melhoria de tempo de entrega com CI/CD e integração de ferramentas
+## Formação Acadêmica & Certificações
 
-## Certificações e diferenciais
+- **Tecnólogo em Ciências da Computação** – UNINOVE (2002 – 2003)
+- **Certified Scrum Master (CSM)**
+- **GitHub Copilot Challenge**
 
-- Scrum Master
-- GitHub Copilot Challenge
-- Experiência internacional em projetos na América Latina
-- Visão executiva com profundidade técnica e capacidade de mobilização de times
+---
 
 ## Idiomas
 
-- Inglês: Professional Working
-- Espanhol: Intermediário / proficiência em trabalho
-- Francês: Elementar
-
-## Contato
-
-- Email: pedro.leao@gmail.com
-- Celular: +55 11 98966-6344
-- LinkedIn: https://www.linkedin.com/in/pedroleao/
-- GitHub: https://github.com/pedrorobsonleao
-- Localização: São Paulo, Brasil
-
-## Mensagem final
-
-Executivo de tecnologia com sólida experiência em transformação digital, liderança de engenharia e modernização de sistemas críticos. Combinando visão estratégica, execução operacional e profundidade técnica, contribui para elevar desempenho, reduzir risco e acelerar resultados com impacto mensurável no negócio.
+- **Português:** Nativo
+- **Inglês:** Profissional (Professional Working Proficiency)
+- **Espanhol:** Elementar / Básico com vivência executiva prática em projetos na América Latina
+- **Francês:** Elementar / Básico
