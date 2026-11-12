@@ -134,6 +134,7 @@ Tech Program Manager
 
 ## Resume files
 
+- [Prompt reutilizável para revisar e atualizar perfil e currículos](./PROMPT_ATUALIZACAO_DE_PERFIL_E_CURRICULOS.md)
 - [Currículo em PT-BR](./curriculum-pt-BR.md)
 - [Resume in EN-US](./curriculum-en-US.md)
 - [Versão executiva em PT-BR](./curriculum-pt-BR-executivo.md)
