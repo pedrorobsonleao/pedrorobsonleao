@@ -1,88 +1,130 @@
-# Pedro Robson Leão 🚀
-### Senior Tech Leader | Software Architect | Agile Enthusiast
+# Pedro Robson Leão
 
-<p align="center">
+> **Tech Lead | Senior Engineering Manager | Digital Transformation Leader**
+
+<div align="center">
   <a href="https://www.linkedin.com/in/pedroleao/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/pedrorobsonleao" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:pedro.leao@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.instagram.com/pedrorobsonleao/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
-
----
-
-> [!NOTE]
-> **"Compartilhe seu conhecimento, multiplique seu impacto. Seja um líder técnico de referência."**
-
----
-
-### 👋 About Me
-
-I am a seasoned Technology Leader and Software Architect with extensive experience in the IT industry, spanning sectors like **Finance**, **Telecommunications**, and **E-commerce**. With a strong foundation in backend development and a deep-seated passion for Unix/Linux environments, I thrive on building robust, scalable solutions and leading high-performing engineering teams.
-
-* 💼 **Professional Experience:**
-  * **Tech Lead** at **Provider IT** – Delivering consulting and engineering leadership.
-* 📜 **Agile Champion:** Certified **Scrum Master** focused on fostering iteration, feedback loops, and collaboration.
-* 🌍 **International Footprint:** Delivered cross-border software solutions in Latin America (Argentina, Peru, Mexico, Uruguay, Colombia).
-* 🚣 **Interests:** Ask me about **Software Architecture, Linux systems, Bash scripting, Java/C++, and Rowing**.
-
----
-
-### 🛠️ Tech Stack
-
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Script" />
-</p>
-</details>
-
-<details open>
-<summary><b>⚙️ DevOps & Tooling</b></summary>
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & Operating Systems</b></summary>
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle_DB-%23F80000.svg?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
-</p>
-</details>
-
----
-
-### 📊 GitHub Stats
+</div>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pedrorobsonleao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Pedro's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorobsonleao&layout=compact&langs_count=8&theme=dracula" alt="Pedro's Top Languages" />
+  <strong>Driving modern software engineering, legacy modernization, and high-impact digital transformation across Banking, Fintech, Insurtech, and Telecom.</strong>
 </p>
 
 ---
 
+## About Me
+
+Technology leader and software architect with over 30 years of hands-on experience bridging mission-critical legacy architectures (IBM Mainframe, C/C++, Sun Solaris) with modern distributed systems (Java 17+, microservices, AI automation).
+
+Proven track record directing cross-functional engineering squads, leading high-stakes modernization programs, and delivering multi-country solutions across Latin America (Brazil, Mexico, Peru, Colombia, Argentina, and Uruguay). Strong consultative ability to translate strategic corporate objectives into resilient technical execution, ensuring zero downtime, strict regulatory compliance, and measurable ROI.
+
+> *"Compartilhe seu conhecimento, multiplique seu impacto. Seja um líder técnico de referência."*
+
+---
+
+## Executive & Technical Highlights
+
+- **30+ Years of Engineering & Leadership:** Specialized in enterprise modernization across Banking, Financial Services, Insurance, and Telecommunications.
+- **Mission-Critical Continuity:** Directed core banking modernization initiatives (e.g., Bradesco's Project Change), migrating legacy Java 1.6/Swing systems to Java 17+ and Mainframe (z/OS Connect) with 100% operational continuity.
+- **Multinational Program Delivery:** Led regional software rollouts across 5 Latin American countries for BNP Paribas Cardif, including on-site operational delivery in Mexico City.
+- **Fintech & Insurtech Scale:** Spearheaded core debt collection migrations to SaaS (Banco Neon) and built strategic insurance protection architectures for payroll loans (meutudo. with Icatu Seguros).
+- **Enterprise DevOps & Agile Culture:** Certified Scrum Master (CSM); established automated Continuous Delivery pipelines (Jenkins, Jira, Python, Node.js) across corporate engineering organizations.
+
+---
+
+## Core Competencies
+
+### Leadership & Strategy
+- Technical Leadership & Engineering Management
+- Architecture Governance & Platform Strategy
+- Agile Methodologies (Certified Scrum Master) & Squad Mentorship
+- C-Level Stakeholder Management & Tech-to-Finance Consultative Sales
+- Operational Risk Management & Business Continuity
+
+### Technical Stack & Architecture
+- **Languages:** Java (Java 17+, Spring Boot, Java 1.6, J2EE), C/C++ (POCO, gSOAP), Python, Node.js, JavaScript, Shell Scripting (Bash, AWK, Perl, PHP)
+- **Architecture:** Distributed Microservices, RESTful APIs, Modern-to-Mainframe Integration, High Availability (24x7 SLAs)
+- **Platforms & Infrastructure:** IBM Mainframe (z/OS Connect), Sun Solaris, Unix (SCO, QNX), Linux, MS-Windows, IBM WebSphere, Oracle Database, Liferay Portal
+- **DevOps & Tooling:** CI/CD (Jenkins), Atlassian Jira, Git/GitHub, AI & RPA Process Automation
+
+### Industry Domains
+- Core Banking Modernization & Loan Collateral Formalization
+- Banking as a Service (BaaS - Matera / Itaú as a Service) & Open Finance
+- Credit Risk Recovery & Debt Settlement (PCLD / CRELIQ)
+- Insurtech, Mass-Market & Credit Life Insurance (*Seguro Prestamista*)
+- High-Throughput Telecom Messaging Gateways (SMS) & CTI / Call Centers
+- O2O (Online-to-Offline) & Location-Based Services
+
+---
+
+## Experience Snapshot
+
+| Period | Role | Company / Client | Core Focus |
+| :--- | :--- | :--- | :--- |
+| **2026** | **Tech Lead** | **Provider IT** | BaaS migration (Itaú to Matera BaaS), Open Finance & Customer Service squads |
+| **2025** | **Tech Lead / Specialist** | **Bradesco** | Project Change: Core banking modernization (Java 17+, Mainframe z/OS) |
+| **2024 – 2025** | **Tech Lead / Engineering Lead** | **meutudo.** | Insurtech: Icatu integration, payroll loan protection & mass insurance |
+| **2024** | **Senior Manager** | **EY (Ernst & Young)** | Digital Transformation & FinTech (LATAM): AI automation & consultative sales |
+| **2020 – 2023** | **Senior Software Manager** | **Neon** | Collections core migration to SaaS (Cobransaas), Salesforce CRM, PCLD/CRELIQ |
+| **2017 – 2020** | **Engineering Manager / Tech Lead** | **Apontador** | Search engine indexing overhaul, O2O digital services, LBS routing |
+| **2013 – 2017** | **Tech Program Manager (LATAM)** | **BNP Paribas Cardif** | PIMS insurance platform rollout in 5 LATAM countries, CI/CD automation |
+| **2008 – 2013** | **Senior Software Engineer / Specialist** | **Spring Wireless / Okto** | High-throughput C++ SMS messaging gateways, post-merger stabilization |
+| **2000 – 2008** | **Systems Architect Specialist** | **Cetelem (BNP Paribas)** | 24x7 online transaction engine on Sun Solaris, retail cards (Carrefour, FNAC), Aura brand |
+| **1991 – 2000** | **Systems Analyst / Specialist** | **Tecnet Teleinformática** | CTI telecom systems, Ministry of Labor, INSS, international rollouts (Peru, Uruguay, Argentina) |
+
+---
+
+## Education & Certifications
+
+- **Technologist Degree, Computing Sciences** – UNINOVE (2002 – 2003)
+- **Certified Scrum Master (CSM)**
+- **GitHub Copilot Challenge**
+
+---
+
+## Languages
+
+- **Portuguese:** Native
+- **English:** Professional Working Proficiency
+- **Spanish:** Elementary Proficiency (with extensive practical project delivery across Latin America)
+- **French:** Elementary Proficiency
+
+---
+
+## Resume & Profile Documents
+
+All materials are organized by audience and language for direct recruiter and ATS review:
+
+| Document | Language | Target Focus | Link |
+| :--- | :--- | :--- | :--- |
+| **General Profile** | Português (PT-BR) | Perfil Geral & Histórico Completo (LinkedIn) | [curriculum-pt-BR.md](./curriculum-pt-BR.md) |
+| **General Profile** | US English (EN-US) | Comprehensive Career Profile & LinkedIn Mirror | [curriculum-en-US.md](./curriculum-en-US.md) |
+| **Executive Resume** | Português (PT-BR) | Liderança Estratégica, Governança & Negócios | [curriculum-pt-BR-executivo.md](./curriculum-pt-BR-executivo.md) |
+| **Executive Resume** | US English (EN-US) | Executive Leadership, Digital Strategy & ROI | [curriculum-en-US-executive.md](./curriculum-en-US-executive.md) |
+| **Technical Resume** | Português (PT-BR) | Arquitetura de Software & Sistemas Críticos | [curriculum-pt-BR-tecnico.md](./curriculum-pt-BR-tecnico.md) |
+| **Technical Resume** | US English (EN-US) | Software Architecture & Legacy Modernization | [curriculum-en-US-technical.md](./curriculum-en-US-technical.md) |
+| **Reusable Prompt** | Português (PT-BR) | Prompt de Revisão e Atualização Contínua | [PROMPT_ATUALIZACAO_DE_PERFIL_E_CURRICULOS.md](./PROMPT_ATUALIZACAO_DE_PERFIL_E_CURRICULOS.md) |
+
+---
+
+## Contact
+
+- **Email:** [pedro.leao@gmail.com](mailto:pedro.leao@gmail.com)
+- **Phone:** +55 11 98966-6344
+- **LinkedIn:** [linkedin.com/in/pedroleao](https://www.linkedin.com/in/pedroleao/)
+- **GitHub:** [github.com/pedrorobsonleao](https://github.com/pedrorobsonleao)
+- **Location:** São Paulo, SP, Brazil
+
+---
+
 <p align="center">
-  <sub>Built with ❤️, HTML/CSS/JS, and Unix philosophy.</sub>
+  <sub>Built for engineering excellence, strategic modernization, and business impact.</sub>
 </p>
